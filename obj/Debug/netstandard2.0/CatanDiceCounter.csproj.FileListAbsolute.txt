@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\bin\Debug\netstandard2.0\CatanDiceCounter.deps.json
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\bin\Debug\netstandard2.0\CatanDiceCounter.dll
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\bin\Debug\netstandard2.0\ref\CatanDiceCounter.dll
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\bin\Debug\netstandard2.0\CatanDiceCounter.pdb
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\CatanDiceCounter.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\CatanDiceCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\CatanDiceCounter.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\CatanDiceCounter.AssemblyInfo.cs
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\CatanDiceCounter.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\CatanDiceCounter.dll
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\refint\CatanDiceCounter.dll
+C:\Users\kevin\source\repos\CatanDiceCounter\CatanDiceCounter\CatanDiceCounter\obj\Debug\netstandard2.0\CatanDiceCounter.pdb
